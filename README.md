@@ -40,7 +40,7 @@ This is a music jukebox project made in Verilog HDL using the FPGA on the Arduin
 
 ### Block Diagram
 
-![Block Diagram](https://www.element14.com/community/servlet/JiveServlet/showImage/38-37453-1007629/pastedImage_1.png)
+![Block Diagram](block_diagram.png)
 
 ### Pinout
 
